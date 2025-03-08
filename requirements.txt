@@ -1,0 +1,1 @@
+# This project uses standard Python libraries and doesn't require any external packages 
